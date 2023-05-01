@@ -57,4 +57,6 @@ int main(){
     return 0;
 }
 
+/* Este jogo de adivinhação pode ser util em jogos como por exemplo os que tem mecanica de aleatorização de drops ou outros itens a serem dados ao jogador, assim como jogos de aposta onde o jogador tem que tentar adivinhar a carta ou semelhantes. */
+
 
